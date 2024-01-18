@@ -1,3 +1,5 @@
+*** To use on Mac Silicon, set "GPU=True" to False. 
+
 Future updates:
 - Add Speech to Text for full immersion.
 
