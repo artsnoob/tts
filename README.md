@@ -1,4 +1,4 @@
-3 versions right now; 
+*** 3 versions right now: ***
 
 - CoquiWork: Working on Windows and Mac (tested on Apple Silicon). Text input, TTS output from LLM. Using Coqui Text to Speech.
 - WhisperWindows: STT -> LLM -> TTS for Windows. Using Whisper STT and Coqui Text to Speech.
