@@ -1,4 +1,10 @@
-*** To use on Mac Silicon, set "GPU=True" to False.***
+To use on Mac Silicon, set "GPU=True" to False.
+
+To use on Windows, install Nvidia Cuda Toolkit.
+
+For both platforms; create a venv and install the requirements.txt.
+
+Also, install Pytorch; https://pytorch.org/get-started/locally/
 
 ******************************************************
 
