@@ -1,7 +1,11 @@
-*** To use on Mac Silicon, set "GPU=True" to False. 
+*** To use on Mac Silicon, set "GPU=True" to False.***
+
+******************************************************
 
 Future updates:
 - Add Speech to Text for full immersion.
+
+******************************************************
 
 V0.3 (17/01/2024)
 Added TTS to the feedback provided by the LLM.
