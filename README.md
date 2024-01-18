@@ -17,7 +17,11 @@ Future updates:
 
 Current version:
 
-V0.3 (17/01/2024)
+Whispertalkback.py V0.3 (18/01/2024)
+Added Whisper input so you can actually talk to the model. Using "Whisper-Large-V3" because it seems to be the most reliable, but slow.
+Turn on GPU acceleration when on PC.
+
+Coqui Working V0.3 (17/01/2024)
 Added TTS to the feedback provided by the LLM.
 
 ******************************************************
