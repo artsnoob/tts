@@ -1,3 +1,11 @@
+3 versions right now; 
+
+- CoquiWork: Working on Windows and Mac (tested on Apple Silicon). Text input, TTS output from LLM.
+- WhisperWindows: STT -> LLM -> TTS for Windows
+- WisperMac: STT -> LLM -> TTS for Mac (tested on Apple Silicon)
+
+******************************************************
+
 *** Setup a LLM server within LM Studio and choose the LLM model that you want to use. ***
 
 To use on Mac Silicon, set "GPU=True" to False.
@@ -28,7 +36,7 @@ Whispermac.py V0.3 (18/01/2024)
 Added Whisper input so you can actually talk to the model. Using "Whisper-Large-V3" because it seems to be the most reliable, but slow.
 Turn on GPU acceleration when on PC.
 
-Coqui Working V0.3 (17/01/2024)
+Coqui Work V0.3 (17/01/2024)
 Added TTS to the feedback provided by the LLM.
 
 V0.2 (17/01/2024)
