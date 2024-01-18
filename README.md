@@ -18,19 +18,19 @@ Also, install Pytorch; https://pytorch.org/get-started/locally/
 
 ******************************************************
 
-Future updates:
+*** Future updates: ***
 - Add Speech to Text for full immersion.
 
 ******************************************************
 
-Current version:
+*** Current version: ***
 
 Whisperwindows.py V0.4 (18/01/2024)
 Working on Windows with GPU enabled, quicker then on my Mac, working with attached headset.
 
 ******************************************************
 
-Previous versions:
+*** Previous versions: ***
 
 Whispermac.py V0.3 (18/01/2024)
 Added Whisper input so you can actually talk to the model. Using "Whisper-Large-V3" because it seems to be the most reliable, but slow.
