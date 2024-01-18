@@ -1,3 +1,5 @@
+*** Setup a LLM server within LM Studio and choose the LLM model that you want to use. ***
+
 To use on Mac Silicon, set "GPU=True" to False.
 
 To use on Windows, install Nvidia Cuda Toolkit.
